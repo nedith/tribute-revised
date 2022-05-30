@@ -1,62 +1,46 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
+# Tribute Page
 
-# Project Name
-
-> Description the project.
-
+> This Project is paying tribute to Dr. Norman Borlaug
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
-## Live Demo (if available)
+## Live Demo 
 
-[Live Demo Link](https://livedemo.com)
-
+[Live Demo Link](https://github.com/nedith/tribute-revised/issues)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+-Clone the project via terminal or download the package.
+-Open index.html file via browser
 
 ### Prerequisites
 
-### Setup
+-Any web browser
 
-### Install
+### Setup
+git clone git@github.com:nedith/tribute-revised.git
 
 ### Usage
 
-### Run tests
-
-### Deployment
-
-
+Open index.html in the browser
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@nedith](https://github.com/nedith)
+- Twitter: [@edithnaisanga](https://twitter.com/edithnaisanga)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/edith-naisanga-19396856/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/nedith/tribute-revised/issues).
 
 ## Show your support
 
